@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Priscilla Opoku
 
 #### Your section leader's name
 
-TODO
+Zhengkang Fan
 
 #### Project title
 
-TODO
+run turtle run
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+create one competitor
 
 #### What have you not done for your project yet?
 
-TODO
+trying to create another
 
 #### What problems, if any, have you encountered?
 
-TODO
+not yet
